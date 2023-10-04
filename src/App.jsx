@@ -63,6 +63,10 @@ export default function App() {
   return (
     <div className="vishal">
       <Line options={options} data={data} />
+      
+
+
+      
     </div>
   );
 }
